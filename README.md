@@ -20,11 +20,20 @@ To get a local copy up and running follow these simple example steps.
     PostgreSQL
     Ruby on Rails
 
+## UI PR
+
+[PR](https://github.com/JoffreyNK/react-for-rails-api/pull/1)
+
+
+## UI repo
+
+[Repo](https://github.com/JoffreyNK/react-for-rails-api)
+
 ### Setup
 
-    git clone https://github.com/JoffreyNK/react-for-rails-api
+    git clone https://github.com/JoffreyNK/hello-api-for-react/
 
-    cd react-for-rails-api
+    cd hello-api-for-react
 
     bundle install
 
@@ -36,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-1. rails server -p 80000
+    rails server -p 8000
 
 
 ### Done!
