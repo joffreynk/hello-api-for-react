@@ -22,12 +22,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-    1. ```git clone https://github.com/JoffreyNK/react-for-rails-api```
-    2. ```cd react-for-rails-api```
-    3. ```bundle install```
-    4. ```rails db:create```
-    5. ```rails db:migrate```
-    6. ```rails db:seed```
+    git clone https://github.com/JoffreyNK/react-for-rails-api
+
+    cd react-for-rails-api
+
+    bundle install
+
+    rails db:create
+
+    rails db:migrate
+
+    rails db:seed
 
 ### Usage
 
